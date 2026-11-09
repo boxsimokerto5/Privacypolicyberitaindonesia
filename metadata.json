@@ -1,0 +1,6 @@
+{
+  "name": "Kebijakan Privasi - Berita Indonesia",
+  "description": "Kebijakan Privasi resmi aplikasi Berita Indonesia oleh Geccko Creator. Transparansi data, privasi pengguna, dan kepatuhan Google Play Store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
